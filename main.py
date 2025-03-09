@@ -1,4 +1,4 @@
-from traffic_simulator import TrafficSimulator
+from trafficSim import TrafficSimulator
 
 if __name__ == "__main__":
     sim = TrafficSimulator()
